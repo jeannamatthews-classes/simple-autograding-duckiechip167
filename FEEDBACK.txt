@@ -1,0 +1,5 @@
+Was any of this material about Github new to you? If so, what?
+
+No, none of this material is new to me. I am familar with Git and push/commit through my internship with C Speed LLC.
+I am familar with GitHub is general by using it for my classes. Just last semester I used GitHub Classroom with
+Front-End Development.
